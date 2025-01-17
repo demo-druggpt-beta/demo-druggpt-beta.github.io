@@ -1,1 +1,1 @@
-# demo-druggpt-beta.github.io
+# demo-drug-gpt.github.io
